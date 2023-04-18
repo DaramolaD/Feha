@@ -83,7 +83,7 @@ button, textarea {
     align-items: center;
     gap: 50px;
 }
-.fitCont {max-width: fit-content;}
+/* .fitCont {max-width: fit-content;} */
 img {width: 100%;}
 .Heebo {font-family: "Heebo";}
 .Nunito {font-family: "Nunito";}
@@ -250,9 +250,9 @@ img {width: 100%;}
 /* AIM */
 .aim {padding-top: 100px;}
 .aim .para-2 {text-transform: capitalize;}
-.aim .container {
+/* .aim .container {
     justify-items: self-end;
-}
+} */
 
 /* PROJECTS */
 
